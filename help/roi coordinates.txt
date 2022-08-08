@@ -1,0 +1,22 @@
+Help information for ROI coordinates:
+    
+The current function extracts coordinates for each cluster and output to a table.
+    
+input type: seperated binary clusters or labeled clusters
+mask*: optional. mask to do AND operation with.
+cluster size: masked clusters with smaller cluster size will be discarded.
+roi file: input ROI file
+roi index*: optional. two columns of information for each labeled cluster in a *.csv file. For example:
+    1,SFG
+    2,MFG
+    3,IFG
+    
+out dir: output directory for saving results.
+    
+Buttons:
+    S: Save parameters of the current panel to a *.mat file. The *.mat can be further loaded for the panel or be used in a script processing.
+    L: Load parameters from *.mat for the current panel.
+    ?: Help information.
+    
+end
+     
