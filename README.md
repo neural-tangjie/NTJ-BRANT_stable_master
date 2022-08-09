@@ -1,6 +1,6 @@
 # **NTJ-brant_stable_master-[note]**
 This note contains the following sections:<br>
-| No. | BRANT what | detailed|
+| No. | Module | Gist|
 |---|---|---|
 |1|**Introduction** |Source and Background|
 |2|Function|7 modules: (1) preprocessing, (2) functional connectivity (FC), (3) spontaneous activity (SPON), (4) complex network analysis (NET), (5) statistics (STAT), (6) visualization (View) and (7) utilities|
